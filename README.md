@@ -1,2 +1,2 @@
-# supercandy
-supercandy exercise
+# SuperCandy
+SuperCandy Exercise (October 2020)
